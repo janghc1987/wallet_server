@@ -1,0 +1,38 @@
+{
+	"local-db": 
+	{ 
+		"username": "test", 
+		"password": "test123!", 
+		"database": "nft_market", 
+		"host": "127.0.0.1", 
+		"dialect": "mysql", 
+		"operatorAliases" : false 
+	},
+	"local": 
+	{ 
+		"username": "test", 
+		"password": "test123!", 
+		"database": "nft_market", 
+		"host": "127.0.0.1", 
+		"dialect": "mysql", 
+		"operatorAliases" : false 
+	},
+	"development": 
+	{ 
+		"username": "test", 
+		"password": "test123!", 
+		"database": "nft_market", 
+		"host": "127.0.0.1", 
+		"dialect": "mysql", 
+		"operatorAliases" : false 
+	},
+	"product": 
+	{ 
+		"username": "admin", 
+		"password": "admin123!", 
+		"database": "nft_market", 
+		"host": "meganft.chw4hszeftky.ap-northeast-2.rds.amazonaws.com", 
+		"dialect": "mysql", 
+		"operatorAliases" : false 
+	}
+}
